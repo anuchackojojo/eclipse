@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T14:49:38 IST" name="Default suite" finished-at="2024-08-03T14:49:45 IST" duration-ms="6447">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T14:49:38 IST" name="Default test" finished-at="2024-08-03T14:49:45 IST" duration-ms="6447">
+      <class name="Testng.Guru99fileupload">
+        <test-method is-config="true" signature="set()[pri:0, instance:Testng.Guru99fileupload@1a482e36]" started-at="2024-08-03T14:49:38 IST" name="set" finished-at="2024-08-03T14:49:40 IST" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method is-config="true" signature="urlupload()[pri:0, instance:Testng.Guru99fileupload@1a482e36]" started-at="2024-08-03T14:49:40 IST" name="urlupload" finished-at="2024-08-03T14:49:45 IST" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlupload -->
+        <test-method signature="test()[pri:0, instance:Testng.Guru99fileupload@1a482e36]" started-at="2024-08-03T14:49:45 IST" name="test" finished-at="2024-08-03T14:49:45 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Testng.Guru99fileupload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
